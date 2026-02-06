@@ -1,0 +1,3 @@
+aiogram~=3.24.0
+requests
+aiosqlite~=0.22.1
